@@ -3,4 +3,4 @@ This program finds the semantic similarity of words so that it can answer which 
 
 ## Credit
 Micheal Guerzhoy for assignment 
-Team Member: Eve Fletcher 
+Team Member: Eve
